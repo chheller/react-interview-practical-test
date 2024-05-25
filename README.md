@@ -1,1 +1,2 @@
 # react-interview-practical-test
+This repo is used for administering a simple practical code interview. The goal for the interviewee is to identify issues in the code and provide solutions and reasoning.
